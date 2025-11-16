@@ -5,7 +5,7 @@
 
 These are the strings you can give to functions that take a particle effect `texture` as input:
 
-<picture>
+<picture height="15">
   <source media="(prefers-color-scheme: dark)" height="15" srcset="https://github.com/user-attachments/assets/c32d0a4e-4c89-47fe-a94e-1807029a3f70">
   <source media="(prefers-color-scheme: light)" height="15" srcset="https://github.com/user-attachments/assets/9db5bb07-3793-44b1-bd07-8c3e4aeb6229">
   <img alt="bubble" height="15" src="https://github.com/user-attachments/assets/c32d0a4e-4c89-47fe-a94e-1807029a3f70">
