@@ -10,7 +10,7 @@ Please use [our discord](https://discord.gg/vwMp5y25RX) to report any issues you
 
 - World owners can find these by searching in the creative menu
 - No need to add `press to code`, this text is only needed for code boards, and will automatically be removed
-- If you want to run code without opening the code editor, you can trigger the code block by right clicking an adjacent `press to code` board instead
+- If you want to run code without opening the code editor, you can trigger the code block by right clicking an adjacent `press to code` board instead or right-click if you're on PC
 
 ## Boards
 
@@ -65,7 +65,7 @@ Set player health to 99, and print the old health:
 ```js
 const oldHealth = api.getHealth(myId)
 api.setHealth(myId, 99)
-api.log("Old Health:", oldHealth)
+api.log("Old Health: ", oldHealth)
 ```
 
 Define a function to get the player IDs excluding your own ID:
